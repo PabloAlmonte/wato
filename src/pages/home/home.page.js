@@ -58,6 +58,7 @@ export function HomePage() {
           <TextField
             fullWidth
             required
+            type="number"
             name="phone"
             label="Phone Number"
           />
