@@ -1,0 +1,17 @@
+#root {
+  padding-top: 56px;
+}
+
+.flag {
+  margin-right: 10px;
+  transform: scale(1.5);
+}
+
+.NavigationComponent {
+  top: auto !important;
+  bottom: 0;
+}
+
+.NavigationComponent button {
+  flex: 1;
+}
